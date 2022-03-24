@@ -92,6 +92,9 @@
         rel="noreferrer">&nbsp; <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
             alt="gtihub" width="40" height="40" /> </a>
+     <a href="https://www.postman.com/" target="_blank"
+        rel="noreferrer"> <img src="https://github.com/autopkg/killahquam-recipes/blob/master/Postman/postman.png" alt="postman" width="40"
+            height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
             height="40" /> </a>
