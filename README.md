@@ -4,11 +4,12 @@
 <div align="left">
   <h2>I'm Yash Sawant</h2>
   <h4>A passionate and self-taught Web Developer from India. </h4>
-</div>
-<section align="left">
+  <section align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=YashKSawant&show_icons=true&theme=ayu-mirage&count_private=true" />
-  <a href="https://app.daily.dev/YashKSawant"><img src="https://github.com/YashKSawant/YashKSawant/blob/main/devcard.svg" width="300" height="300" alt="Yash Sawant's Dev Card"/></a>
+      <a href="https://app.daily.dev/YashKSawant"><img src="https://github.com/YashKSawant/YashKSawant/blob/main/devcard.svg" width="300" height="300" alt="Yash Sawant's Dev Card"/></a>
 </section>
+</div>
+
 
 ### Connect with Me :
 
