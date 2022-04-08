@@ -1,15 +1,24 @@
-
-# Hi there 👋
+<h1>Hi there 👋</h1>
 
 <div align="left">
-  <h2>I'm Yash Sawant</h2>
-  <h4>A passionate and self-taught Web Developer from India. </h4>
-  <section align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=YashKSawant&show_icons=true&theme=ayu-mirage&count_private=true" />
-      <a href="https://app.daily.dev/YashKSawant"><img src="https://github.com/YashKSawant/YashKSawant/blob/main/devcard.svg" width="300" height="400" alt="Yash Sawant's Dev Card"/></a>
-</section>
+
+  <a href="https://app.daily.dev/YashKSawant" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/YashKSawant/YashKSawant/blob/main/devcard.svg"
+    />
+  </a>
 </div>
 
+<br />
+
+<h2>I'm Yash Sawant</h2>
+<div>
+  <h4>A passionate and self-taught Web Developer from India. </h4>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashKSawant&show_icons=true&theme=ayu-mirage&count_private=true" />
+</div>
 
 ### Connect with Me :
 
@@ -91,7 +100,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a> 
      <a href="https://github.com" target="_blank"
         rel="noreferrer">&nbsp; <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
+            src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
             alt="gtihub" width="40" height="40" /> </a>
      <a href="https://www.postman.com/" target="_blank"
         rel="noreferrer"> <img src="https://github.com/autopkg/killahquam-recipes/blob/master/Postman/postman.png" alt="postman" width="40"
