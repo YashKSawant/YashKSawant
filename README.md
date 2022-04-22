@@ -23,7 +23,10 @@
 ### Connect with Me :
 
 <a href="https://twitter.com/yashksawant" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="yashksawant" height="30" width="30">&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="yashksawant" height="30" width="30">
+</a>
+<a href="https://www.linkedin.com/in/yash-sawant-052bb918a/" target="_blank">
+  &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="yash sawant's linkedin" height="30" width="30">
 </a>
 
