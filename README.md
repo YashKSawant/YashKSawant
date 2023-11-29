@@ -10,7 +10,7 @@
 </div>
 
 <div align="left">
-  <a href="https://app.daily.dev/YashKSawant"><img src="https://github.com/YashKSawant/YashKSawant/blob/master/devcard.svg" width="400" height="500" alt="Yash Sawant's Dev Card"/></a>
+  <a href="https://app.daily.dev/yashksawant"><img src="https://api.daily.dev/devcards/de38926416f448c6a7b38f9ef35b88c1.png?r=rxt" width="400" height="500" alt="Yash Sawant's Dev Card"/></a>
 </div>
 
 </div>
