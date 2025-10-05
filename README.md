@@ -1,106 +1,97 @@
+<h1 align="center">Hi there 👋</h1>
 
+<h2 align="center">I'm Yash Sawant</h2>
 
-<h1>Hi there 👋</h1>
+<p align="center">
+A passionate and self-taught <strong>Full-Stack Developer</strong> from India, who loves designing scalable systems, automating workflows, and turning ideas into code.
+</p>
 
-<h2>I'm Yash Sawant</h2>
-<div>
-<div align="left">
-  <h4>A passionate and self-taught Web Developer from India. </h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=YashKSawant&show_icons=true&theme=ayu-mirage&count_private=true" />
+---
+
+### 🧩 About Me
+
+I’m a software developer who enjoys figuring out how things *really* work from compilers to containers.  
+I like debugging weird edge cases, breaking abstractions to understand them, and turning ideas into tangible tools.  
+When I’m not coding, I’m experimenting with new frameworks, refactoring old projects, or diving into system design papers.
+
+---
+
+### 🚀 What I’m Working On
+
+- 🗒️ Building a **note-taking app** using Electron + Angular with Markdown support  
+- 📡 Experimenting with **SignalR + UDP** for real-time event streaming  
+- 🧩 Containerizing services with **Docker Compose** and deploying on **Ubuntu 24.04**  
+- 🎥 Integrating **MediaMTX** for multi-camera event and box packet handling  
+
+---
+
+### 🧠 Currently Exploring
+
+- Advanced **Data Structures and Algorithms** (C++ / C#)  
+- **Asynchronous and multithreaded programming** in .NET  
+- Frontend **performance tuning** in Angular  
+- **Real-time video streaming** architectures  
+
+---
+
+### 🧾 Highlights
+
+- ⚙️ Designed a **MediaMTX JSON-based config system** for better navigation and automation  
+- 🧠 Built a **mock IVA packet sender** in Node.js for multi-camera simulation  
+- ⚡ Developed a **SignalR-based live event layer** for UDP streaming  
+- 🧱 Migrated production services from **.NET 6 → .NET 8** with zero downtime  
+
+---
+
+### 🧰 My Current Tech Stack
+
+**Languages:** C#, C++, TypeScript  
+**Frontend:** Angular, TailwindCSS, ngx-markdown, Toast UI Editor  
+**Backend:** ASP.NET Core, Node.js (for lightweight services), SignalR  
+**Database:** MSSQL, MongoDB  
+**DevOps:** Docker, Docker Compose, Linux (Ubuntu 24.04)  
+**Tools:** Visual Studio, VS Code, Git, Postman  
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YashKSawant&show_icons=true&theme=ayu-mirage&count_private=true" />
+      </td>
+      <td>
+        <a href="https://app.daily.dev/yashksawant">
+          <img src="https://api.daily.dev/devcards/de38926416f448c6a7b38f9ef35b88c1.png?r=rxt" width="400" height="500" alt="Yash Sawant's Dev Card"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="left">
-  <a href="https://app.daily.dev/yashksawant"><img src="https://api.daily.dev/devcards/de38926416f448c6a7b38f9ef35b88c1.png?r=rxt" width="400" height="500" alt="Yash Sawant's Dev Card"/></a>
-</div>
+---
 
-</div>
+### 🤝 Connect with Me
 
+<p>
+  <a href="https://www.linkedin.com/in/yashksawant/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sawantyashk07@gmail.com" title="Email">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="35" height="35"/>
+  </a>
+</p>
 
-### Connect with Me :
+---
 
+### 🧠 A Bit of Philosophy
 
-<a href="https://www.linkedin.com/in/yashksawant/" target="_blank">
-  &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="yash sawant's Linkedin" height="30" width="30">
-</a>
+> “Code isn’t magic. It’s the closest we’ve come to shaping logic into matter.”  
+> — Yash Sawant
 
-### Programming Languages :
-
-<div>
-     <a href="https://www.w3schools.com/cpp/" target="_blank"
-        rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-        rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-     <a href="https://www.python.org" target="_blank"
-        rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-
-</div>
-
-### Frontend Development :
-
-<div>
-     <a href="https://www.w3schools.com/html/" target="_blank"
-        rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-     <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-        rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-            alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux"
-            width="40" height="40" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40"
-            height="40" /> </a>
-</div>
-
-### Backend Development :
-
-<div>
-     <a
-        href="https://nodejs.org" target="_blank" rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a>
-     <a href="https://expressjs.com" target="_blank"
-        rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-            alt="express" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank"
-        rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" /></a>
-
-</div>
-
-### Other Tools :
-
-<div>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp; <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a> 
-     <a href="https://github.com" target="_blank"
-        rel="noreferrer">&nbsp; <img
-            src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-            alt="gtihub" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-            height="40" /> </a>
-</div>
+<p align="center">
+🚀 Always learning, building, and experimenting.
+</p>
